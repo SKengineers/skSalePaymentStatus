@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Agodoo Sale Order Payment Status",
+    'name': "SK odoo Sale Order Payment Status",
     'summary': """
         Sale Order Payment Status""",
     'description': """
         Sale Order Payment Status
             """,
-    'author': 'Aadhav Group',
-    'company': 'Aadhav Group',
-    'maintainer': 'Aadhav Group',
-    'website': "https://www.aadhavgroup.com/",
+    'author': 'Sritharan K',
+    'company': 'SK Engineer',
+    'maintainer': 'SK Engineer',
+    'website': "https://www.skengineer.be",
     'category': 'Sales',
     'version': '17.1',
     'depends': ['base', 'sale', 'payment'],

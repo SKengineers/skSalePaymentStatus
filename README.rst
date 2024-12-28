@@ -1,4 +1,4 @@
-Sale Payment Status
+SK's Sale Payment Status
 =========
 When install this module, these affection will appear in system:
 
